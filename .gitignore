@@ -1,0 +1,13 @@
+﻿target/
+.idea/
+*.iml
+out/
+.DS_Store
+Thumbs.db
+*.log
+**/application.properties
+!application.properties.example
+.dockerignore
+
+catalog-admin-completion.zip
+city-controller.zip
